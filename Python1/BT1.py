@@ -1,0 +1,7 @@
+a = int(input("Nhap so thu 1: "))
+b = int(input("Nhap so thu 2: "))
+print("\nSo da nhap a: "+str(a)+" b:"+str(b))
+print("\nPhep cong: "+str(a+b))
+print("\nPhep tru: "+str(a-b))
+print("\nPhep nhan: "+str(a*b))
+print("\nPhep chia: "+str(a/b))
